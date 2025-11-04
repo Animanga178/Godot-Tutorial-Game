@@ -1,0 +1,12 @@
+# Godot import cache (auto-generated)
+.import/
+*.import
+
+# Export or build directories (contain big .exe/.pck files)
+export/
+build/
+bin/
+
+# Editor-specific or OS files
+.DS_Store
+Thumbs.db
